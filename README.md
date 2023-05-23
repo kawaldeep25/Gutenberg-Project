@@ -8,8 +8,8 @@ Try it at gutendex.com.
 
 Build on Flutter 3.0.5 and Dart 2.17.6
 
-* [Install Flutter]('https://storage.googleapis.com/flutter_infra_release/releases/stable/windows/flutter_windows_3.0.5-stable.zip') 
-* [Install Latest Flutter]('https://flutter.dev/get-started/')
+* [Install Flutter](https://storage.googleapis.com/flutter_infra_release/releases/stable/windows/flutter_windows_3.0.5-stable.zip) 
+* [Install Latest Flutter](https://flutter.dev/get-started/)
 * [Flutter documentation](https://docs.flutter.dev/)
 * [Development wiki](https://github.com/flutter/flutter/wiki)
 
